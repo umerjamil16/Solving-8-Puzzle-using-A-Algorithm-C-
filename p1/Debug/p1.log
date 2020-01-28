@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (p1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\umer\documents\visual studio 2015\projects\p1\p1\source.cpp(82): warning C4715: 'getBarPos': not all control paths return a value
+  p1.vcxproj -> C:\Users\Umer\documents\visual studio 2015\Projects\p1\Debug\8puzzle_solve_qazi_umer_jamil.exe
+  p1.vcxproj -> C:\Users\Umer\documents\visual studio 2015\Projects\p1\Debug\8puzzle_solve_qazi_umer_jamil.pdb (Full PDB)
